@@ -1,0 +1,37 @@
+================================================================================
+                    LAUDO DE ECOCARDIOGRAMA TRANSTORÁCICO
+================================================================================
+
+Data: 20/01/2026
+Paciente: José Oliveira
+Idade: 68 anos
+Solicitante: Dra. Ana Paula Costa
+
+INDICAÇÃO: Sopro cardíaco. Avaliação de rotina.
+
+ACHADOS:
+
+VALVA AÓRTICA:
+- Válvula trivalvularizada com esclerose e calcificação leve/moderada
+- ÁREA VALVAR: 1.2 cm²
+- Velocidade máxima: 3.2 m/s
+- GRADIENTE MÉDIO: 22 mmHg
+- Insuficiência aórtica: ausente
+
+VE:
+- DDVE: 52 mm
+- DSVE: 34 mm
+- Septo: 11 mm
+- PP: 10 mm
+- FE: 62%
+
+OUTRAS VALVAS: sem alterações
+
+CONCLUSÃO:
+ESTENOSE AÓRTICA MODERADA
+Área valvar: 1.2 cm²
+Gradiente médio: 22 mmHg
+Seguimento clínico recomendado
+
+Dra. Mariana Souza
+CRM-SP 987654

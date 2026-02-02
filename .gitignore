@@ -1,0 +1,38 @@
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+.npm
+.cache/
+*.tsbuildinfo
+.eslintcache
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+cardioscreen_local.db
+
+# Uploads (arquivos de teste)
+backend/uploads/
+frontend/build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo 
+backend/.env 

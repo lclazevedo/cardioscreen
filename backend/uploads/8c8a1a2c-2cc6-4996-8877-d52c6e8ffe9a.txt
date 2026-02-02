@@ -1,0 +1,70 @@
+================================================================================
+                    LAUDO DE ECOCARDIOGRAMA TRANSTORÁCICO
+================================================================================
+
+Data do Exame: 15/01/2026
+Paciente: Maria Silva Santos
+Idade: 72 anos
+Médico Solicitante: Dr. João Carvalho
+
+INDICAÇÃO CLÍNICA:
+Sopro sistólico em foco aórtico. Dispneia aos médios esforços.
+
+EXAME TÉCNICO:
+Exame realizado com transdutor setorial de 2,5-3,5 MHz. Imagens obtidas nos
+planos paraesternal, apical e subcostal.
+
+MEDIDAS E ACHADOS:
+
+CÂMARAS ESQUERDAS:
+- Átrio esquerdo: 45 mm (dilatação leve)
+- Diâmetro diastólico VE: 50 mm
+- Diâmetro sistólico VE: 32 mm
+- Septo interventricular: 14 mm (hipertrofia)
+- Parede posterior VE: 13 mm (hipertrofia)
+- Fração de ejeção: 58% (Simpson biplanar)
+
+CÂMARAS DIREITAS:
+- Átrio direito: normal
+- Ventrículo direito: dimensões normais
+- TAPSE: 22 mm
+
+VALVA AÓRTICA:
+- Válvula tricúspide com calcificação importante dos folhetos
+- Abertura restrita
+- ÁREA VALVAR AÓRTICA: 0.7 cm² (IMPORTANTE ESTENOSE)
+- Velocidade máxima: 4.5 m/s
+- GRADIENTE MÉDIO: 48 mmHg (IMPORTANTE)
+- Gradiente máximo: 82 mmHg
+- Insuficiência aórtica: ausente
+
+VALVA MITRAL:
+- Morfologia preservada
+- Gradiente diastólico médio: 4 mmHg
+- Insuficiência mitral: leve
+
+DEMAIS VALVAS:
+- Tricúspide e pulmonar sem alterações significativas
+
+AORTA:
+- Raiz da aorta: 32 mm
+- Aorta ascendente: 34 mm
+
+PERICÁRDIO:
+- Sem derrame
+
+CONCLUSÃO:
+1. ESTENOSE AÓRTICA IMPORTANTE COM ÁREA VALVAR DE 0.7 cm²
+2. Gradiente médio transvalvar de 48 mmHg
+3. Hipertrofia concêntrica do ventrículo esquerdo
+4. Função sistólica ventricular esquerda preservada
+5. Insuficiência mitral leve
+
+RECOMENDAÇÃO:
+Paciente apresenta ESTENOSE AÓRTICA IMPORTANTE com indicação de avaliação
+para possível tratamento intervencionista (TAVI ou cirurgia de troca valvar).
+Encaminhar para cardiologia intervencionista.
+
+Dr. Paulo Roberto Mendes
+CRM-SP 123456
+Cardiologista - RQE 45678

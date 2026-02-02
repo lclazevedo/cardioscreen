@@ -1,0 +1,27 @@
+================================================================================
+                    LAUDO DE ECOCARDIOGRAMA TRANSTORÁCICO
+================================================================================
+
+Data: 25/01/2026
+Paciente: Carlos Alberto Ferreira
+Idade: 55 anos
+
+INDICAÇÃO: Check-up cardiológico
+
+VALVA AÓRTICA:
+- Morfologia normal
+- Abertura adequada
+- Velocidade máxima: 1.4 m/s
+- Gradiente médio: 3 mmHg
+- Área valvar não calculada (fluxo normal)
+
+VE: Câmaras e função normais
+FE: 65%
+
+CONCLUSÃO:
+Ecocardiograma NORMAL
+Ausência de estenose aórtica
+Função ventricular preservada
+
+Dr. Ricardo Alves
+CRM-SP 456789
